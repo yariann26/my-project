@@ -4,4 +4,4 @@
 # 3 курс 
 2 commit 
 # О разделе
-Closes#1 
+Closes #2
